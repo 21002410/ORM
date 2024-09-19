@@ -41,7 +41,7 @@ class foodball_playerAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![Alt text](<Screenshot (11).png>)
+"C:\Users\mothi\Pictures\Screenshots\Screenshot 2024-09-19 153930.png"
 
 
 
